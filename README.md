@@ -7,8 +7,3 @@ Landlord review app for Bard students using Swift and SwiftUI, enabling real-tim
 
 <img width="1151" alt="Screenshot 2024-11-22 at 4 02 16 AM" src="https://github.com/user-attachments/assets/7d159b3b-a53f-499f-b1f1-5e31bd030f34">
 
-
-
-
-
-![RR Prototype #1](https://github.com/user-attachments/assets/e7c33c7b-0993-497d-86c3-fcdd4c1815d5)
